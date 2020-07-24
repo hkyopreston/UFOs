@@ -53,13 +53,3 @@ function buildTable(data) {
   // Build the table when the page loads
   buildTable(tableData);
 
-  <div class="col-md-9">
-  <table class="table table-striped">
-    <thead>
-      <tr>
-        <th></th>
-      </tr>
-    </thead>
-    <tbody></tbody>
-  </table>
-</div>
